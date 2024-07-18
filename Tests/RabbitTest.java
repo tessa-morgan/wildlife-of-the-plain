@@ -1,9 +1,7 @@
-package edu.iastate.cs228.hw1;
+//package edu.iastate.cs228.hw1;
 
 import static org.junit.jupiter.api.Assertions.*;
-
 import java.io.FileNotFoundException;
-
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
